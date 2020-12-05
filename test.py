@@ -68,5 +68,9 @@
             'type': 'User', 
             'site_admin': False
         }, 'parents': [
-            {'sha': 'd26a425e3377ab7aebe57157c253b4bdefb3c710', 
-        'url': 'https://api.github.com/repos/prglee6274/MyRepository/commits/d26a425e3377ab7aebe57157c253b4bdefb3c710', 'html_url': 'https://github.com/prglee6274/MyRepository/commit/d26a425e3377ab7aebe57157c253b4bdefb3c710'}]}]
+            {
+                'sha': 'd26a425e3377ab7aebe57157c253b4bdefb3c710', 
+                'url': 'https://api.github.com/repos/prglee6274/MyRepository/commits/d26a425e3377ab7aebe57157c253b4bdefb3c710', 
+                'html_url': 'https://github.com/prglee6274/MyRepository/commit/d26a425e3377ab7aebe57157c253b4bdefb3c710'
+            }
+        ]}]
